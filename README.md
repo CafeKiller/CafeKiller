@@ -25,4 +25,6 @@
 </div> -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CafeKiller&hide=html)  
+
+<img height="200px" src="https://github-readme-stats-kk.vercel.app/api/top-langs/?username=CafeKiller&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&theme=graywhite" />
 <!-- ![mattn's github stats] (https://github-readme-stats.vercel.app/api?username=CafeKiller&show_icons=true&count_private=true&line_height=40) -->
