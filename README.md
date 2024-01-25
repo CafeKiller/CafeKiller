@@ -24,4 +24,6 @@
   <img height="150px" src="https://github-readme-stats-kk.vercel.app/api/top-langs/?username=CafeKiller&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CafeKiller&hide=html,css,scss)  
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CafeKiller&hide=html,css,scss)   -->
+  
+![CoffeeKiller's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CafeKiller&layout=compact&hide_border=true&langs_count=10&hide=html,css,scss)
