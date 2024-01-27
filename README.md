@@ -1,8 +1,8 @@
 # Welcome! 👋
 
-嗨，你好呀！欢迎来的我的Github，我是Coffee，一个喜欢荒木飞吕彦和硬核画风的不知名边缘小码农。   
+Hi, how are you? Welcome to my Github, I'm Cafe, an unknown borderline coder who loves Araki Hirohiko and hardcore art.  
 
-> 目标成为一个有趣的全栈开发工程狮，一起加油呀~
+> Aim to be an interesting full stack developer 
 
 ```
  ________  ________  ________ ________ _______   _______        ___  __    ___  ___       ___       _______   ________     
