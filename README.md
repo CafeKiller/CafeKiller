@@ -5,7 +5,6 @@ Hi, how are you? Welcome to my Github, I'm Cafe, an unknown borderline coder who
 > Aim to be an interesting full stack developer 
 
 ```
-
  ________  ________  ________ ________ _______   _______          
 |\   ____\|\   __  \|\  _____\\  _____\\  ___ \ |\  ___ \         
 \ \  \___|\ \  \|\  \ \  \__/\ \  \__/\ \   __/|\ \   __/|        
@@ -20,8 +19,9 @@ Hi, how are you? Welcome to my Github, I'm Cafe, an unknown borderline coder who
         \ \  \\ \  \ \  \ \  \____\ \  \____\ \  \_|\ \ \  \\  \|   
          \ \__\\ \__\ \__\ \_______\ \_______\ \_______\ \__\\ _\   
           \|__| \|__|\|__|\|_______|\|_______|\|_______|\|__|\|__|  
+```  
 
-```
+**You can see more of my github info here! →** [Let's Go!](https://metrics.lecoq.io/insights/CafeKiller)
 
 <!-- ## Data Statistics -->
 
